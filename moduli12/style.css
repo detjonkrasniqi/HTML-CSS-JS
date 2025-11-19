@@ -1,0 +1,31 @@
+p{
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 1225px;
+    margin-left: 80px;
+    color: rgb(255,0,0);
+    background-color: aqua;
+    padding: 20px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+}
+div{
+
+    width: 40%;
+    height: 50%;
+    border: 15px solid red;
+    margin: 50px;
+    padding: 50px;
+    background-color: lightgrey;
+    text-align: center;
+}
+body{
+
+
+    background:url();
+    background-size: 100%;
+
+
+}
