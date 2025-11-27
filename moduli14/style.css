@@ -35,9 +35,28 @@ input:out-of-range{
 main p:first-child{
     background-color: pink;
 }
-a:hover{
+#link:hover{
     color: blueviolet;
 }
 
+nav a{
+    padding: 20px;
+    margin: 20px;
+}
+
+nav{
+    background-color: rgb(175, 175, 235);
+    padding: 20px;
+
+}
+nav a:hover{
+    background-color: rgb(198, 198, 224);
+}
+nav a:active{
+    background: rgb(191, 191, 207);
+}
+nav a:visited{
+    color: yellow;
+}
 
 
