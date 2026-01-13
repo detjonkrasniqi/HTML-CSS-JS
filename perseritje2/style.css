@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #0b1220;
+    color: #e9eefc;
+}
+
+nav{
+    background-color: white;
+    padding: 20px;
+
+}
+nav a{
+    padding: 20px;
+    margin: 20px;
+}
