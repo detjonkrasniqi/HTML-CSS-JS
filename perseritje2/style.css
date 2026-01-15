@@ -13,3 +13,24 @@ nav a{
     padding: 20px;
     margin: 20px;
 }
+
+.gallery{
+    margin: 25px;
+    border: 1px solid black;
+    float: left;
+    width: 180px;
+}
+
+.gallery:hover{
+    border: 3px solid rgb(116, 198, 236);
+    
+    
+}
+.gallery img{
+    width: 100%;
+    height: auto;
+}
+.desc{
+    padding: 25px;
+    text-align: center;
+}
