@@ -1,14 +1,14 @@
-header{
+header {
     background-color: darkviolet;
     color: white;
     height: 650px;
 }
-#cuba{
+#cuba {
     padding-left: 100px;
     padding-top: 20px;
     display: inline-block;
 }
-#home{
+#home {
     display: block;
     float: right;
     margin-right: 150px;
@@ -16,13 +16,13 @@ header{
     padding: 10px;
 
 }
-#text{
+#text {
     text-align: center;
     padding-top: 50px;
     
     
 }
-#buttom{
+#buttom {
     display: block;
     margin: auto;
     margin-top: 80px;
@@ -35,15 +35,150 @@ header{
     border-radius: 10px;
 }
 
-main{
+main {
     background-color: blue;
     margin-bottom: 100px;
     padding: 100px;
 }
 
-#services{
+#services {
     text-align: center;
     padding-top: 50px;
     color: white;
     font-size: 30px;
+}
+
+#teksti {
+    font-size: 30px;
+    colodr: white;
+    font-family: Open Sans Regular, sans-serif;
+    margin-top: 135px;
+    text-align: center;
+}
+
+.flexbox {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(80, 219, 161;
+       display: block;
+    padding: 13px;
+    padding-top: 30px;
+    margin: 20px;
+    overflow: hidden;
+    float: left;
+    margin-left: 45px;
+    margin-top: 210px;
+}
+
+#red {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    margin-bottom: 25px;
+    margin-left: 35px;
+}      
+
+#teksti1 {
+    font-family: Open Sans Regular , sans-serif;
+    margin-bottom: 25px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 5px;
+}
+#redflag {
+    margin-bottom: 20px;
+    margin-left: 100px;
+    width: 85px;
+    height: 70px;
+
+}
+
+#design {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    margin-left: 20px;
+    text-align: center;
+}
+#teksti2 {
+    font-family: Open Sans Regular , sans-serif;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+#pencil {
+    margin-bottom: 20px;
+    margin-left: 100px;
+    width: 85px;
+    height: 70px;
+
+}
+#design {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    margin-left: 20px;
+    text-align: center;
+
+}
+#teksti3 {
+    font-family: Open Sans Regular , sans-serif;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+
+
+}
+#gears {
+    margin-bottom: 20px;
+    margin-left: 112px;
+    width: 85px;
+    height: 70px;
+
+
+}
+
+#r1 {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    margin-left: 20px;
+    text-align: center;
+
+}
+
+#teksti4 {
+    font-family: Open Sans Regular , sans-serif;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+#rocket [
+    margin-bottom: 20px;
+    margin-left: 112px;
+    width: 85px;
+    height: 70px;
+
+]
+#design {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    margin-left: 20px;
+    text-align: center;
+
 }
