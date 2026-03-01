@@ -39,8 +39,8 @@ div#div3{
     padding: 25px;
 }
 
-#horizontal ul{
-    list-style-type: none;
+#horizontal ul{ 
+     list-style-type: none;
     background-color: rgb(236, 158, 57);
     margin-bottom: 25px;
     overflow: hidden;
