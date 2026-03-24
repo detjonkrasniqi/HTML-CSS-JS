@@ -32,7 +32,7 @@ var v_button = document.getElementById("btn6");
 
 var v_txt = document.getElementById("txt1");
 v_button.onclick = function(){
- v_text.style.color ="red"  
+ v_txt.style.color ="red"  
 }
 
 
@@ -62,6 +62,53 @@ var pg = document.getElementById('pg')
 ifundit.onclick = function(){
     pg.setAttribute("class","paragrafi")
 }
+
+var btn_circle = document.getElementById("btnCircle");
+var btn_rect = document.getElementById("btnRect");
+var btn_triangle = document.getElementById("btnTriangle");
+
+
+var circle = document.getElementById("circle");
+var rect = document.getElementById("rect");
+var triangle = document.getElementById("triangle");
+
+btn_circle.onclick = function()
+ {
+    circle.setAttribute("class", "shape_cricle");
+ }
+
+ 
+ btn_rect.onclick = function()
+ {
+    rect.setAttribute("class", "shape_rest");
+ }
+ 
+btn_triangle.onclick = function()
+ {
+    triangle.setAttribute("class", "shape_triangle");
+ }
+ 
+circle.onclick = function()
+ {
+    circle.setAttribute("class", "hide");
+ }
+ 
+rect.circle.onclick = function()
+ {
+    rest.setAttribute("class", "hide");
+ }
+ 
+triangle.onclick = function()
+ {
+    triangle.setAttribute("class", "hide");
+ }
+
+
+
+
+
+
+
 
 
 
